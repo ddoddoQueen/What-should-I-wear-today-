@@ -1,0 +1,107 @@
+a{
+    text-decoration: none; 
+    color: inherit;
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    width: 100%;
+    height: 100vh;
+}
+
+
+.login-img{
+    margin-right: 100px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.login-box{
+    display: grid;
+    align-items: center;
+    justify-content:center;
+}
+
+h1{
+    font-size: 100px;
+    color: darksalmon;
+}
+
+h2{
+    margin-top: 10px;
+    font-size: 30px;
+    color: darksalmon;
+}
+
+input{
+    margin-top: -20px;
+    margin-bottom: 20px;
+    outline: none;
+    height: 50px;
+    border-radius: 50px;
+    text-align:center;
+}
+
+.login-button{
+    font-size: 30px;
+    color: aliceblue;
+    background-color: darksalmon;
+    outline: none;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.submenu-box{
+    display: grid;
+    align-items: center;
+    justify-content:center;
+}
+
+
+
+.submenu{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+
+}
+
+button{
+    
+    font-size: 10px;
+    color: aliceblue;
+    background-color: darksalmon;
+    outline: none;
+    height: 20px;
+    border-radius: 10px;
+    margin-right: 10px;
+
+
+}
+
+.platform{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+
+}
+
+.google-login{
+    font-size: 15px;
+    background-color: darksalmon;
+    outline: none;
+    height: 30px;
+    border-radius: 20px;
+}
+
+.kakao-login{
+    font-size: 15px;
+    background-color: darksalmon;
+    outline: none;
+    height: 30px;
+    border-radius: 20px;
+}

@@ -1,0 +1,32 @@
+a{
+    text-decoration: none; 
+    color: inherit;
+}
+
+
+
+.top-bar-box{
+
+display: flex;
+align-items: center;
+justify-content:center;
+
+}
+
+.top-bar{
+
+    list-style:none;
+    font-size: 30px;
+    display: flex;
+align-items: center;
+justify-content:center;
+
+}
+
+li{
+
+    padding: 0px 50px 0px 50px;
+    margin: 5px 0px 5px 0px;
+    border-right: 1px solid #c0c0c0;
+    
+}
